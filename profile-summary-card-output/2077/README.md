@@ -42,3 +42,23 @@
 ```
 
     
+
+---
+
+![](./3-stats.svg)
+
+```
+![](https://raw.githubusercontent.com/shimizu-saffle/shimizu-saffle/main/profile-summary-card-output/2077/3-stats.svg)
+```
+
+    
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/shimizu-saffle/shimizu-saffle/main/profile-summary-card-output/2077/4-productive-time.svg)
+```
+
+    
